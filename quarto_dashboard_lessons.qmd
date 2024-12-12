@@ -3,6 +3,7 @@ title: "Gapminder 2007"
 author: "Cassandra Pantuso"
 date: "2024-12-11"
 format: dashboard
+theme: superhero
 ---
 
 
